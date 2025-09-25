@@ -34,6 +34,3 @@ The implementation is designed to scale on **multi-core HPC systems**, achieving
 - **Dynamic scheduling** consistently outperformed static scheduling.
 - **Thread-private buffers** significantly reduced false sharing and improved cache efficiency.
 
----
-
-## 📂 Project Structure
